@@ -1,7 +1,7 @@
 name: 'Life Productions, Inc.'
 favicon: null
-layout_spectrum: 0.40378509485162795
-typography_spectrum: 0.2619691544678062
+layout_spectrum: 0.75511
+typography_spectrum: 0.57314
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#90c84b'
+    - '#17200c'
+    - '#5c8030'
+    - '#435d23'
   brandStrength: 0.30200653430074453
   lightness: 0.1672898242250085
   saturation: 0.17943635559640825
